@@ -29,5 +29,20 @@ $$
 \text  Compound{ }Interest = A - P
 $$
 
+Where:  
+- `P` = Principal amount  
+- `R` = Annual interest rate (in %)  
+- `T` = Time period (in years)  
+- `A` = Final amount after the interest compounds
+  
+---
+
+## 🚀 How to Run
+
+### 1️⃣ Clone this repository
+```bash
+git clone https://github.com/syedahirafatima/interest-calculator.git
+cd interest-calculator
+```
 
 
