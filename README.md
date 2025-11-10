@@ -2,14 +2,6 @@
 
 This is a beginner-friendly Python program to calculate Simple Interest and Compound Interest based on user inputs. It's perfect for those learning Python fundamentals like variables, functions, user input, and decision-making.
 
-# Table of Contents:
-- [Features](#-features)
-- [Formulas Used](#-formulas-used)
-- [How It Works](#-how-it-works)
-- [Demo](#-demo)
-- [What I Learnt](#-what-youll-learn)
-- [License](#-license)
-
 # Features:
 1. Calculates **Simple Interest**  
 2. Calculates **Compound Interest**  
