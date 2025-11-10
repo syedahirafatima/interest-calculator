@@ -5,4 +5,29 @@ This project demonstrates basic Python concepts like functions, user input, and 
 
 ---
 
+## 🧮 Features
+
+- Calculate **Simple Interest**
+- Calculate **Compound Interest**
+- Interactive command-line interface
+
+---
+
+## 🧠 Formula Used
+### Simple Interest (SI)
+$$
+\text Simple{ }Interest = \frac{P \times R \times T}{100}
+$$
+
+### Compound Interest (CI)
+
+$$
+A = P \times \left(1 + \frac{R}{100}\right)^T
+$$
+
+$$
+\text  Compound{ }Interest = A - P
+$$
+
+
 
