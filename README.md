@@ -73,3 +73,8 @@ interest-calculator/
 └── README.md                # Project documentation
 
 ```
+## 🛠️ Requirements
+
+- Python 3.6 or above <br>
+
+No external libraries are needed. <br>
