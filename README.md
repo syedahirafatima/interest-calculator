@@ -64,3 +64,12 @@ Enter annual interest rate (%): `5` <br>
 Enter time period (in years): `2` <br>
 Simple Interest is: `100.0` <br>
 
+## Project Structure
+
+```
+interest-calculator/
+│
+├── interest-calculator.py   # Main Python script
+└── README.md                # Project documentation
+
+```
