@@ -44,5 +44,23 @@ Where:
 git clone https://github.com/syedahirafatima/interest-calculator.git
 cd interest-calculator
 ```
+### 2️⃣ Run the program
 
+```bash
+python interest-calculator.py
+
+```
+
+## 🧩 Example
+
+Welcome to the Interest Calculator!
+
+1. Simple Interest
+2. Compound Interest <br>
+
+Choose interest type (1 or 2): `1` <br>
+Enter principal amount: `1000` <br>
+Enter annual interest rate (%): `5` <br>
+Enter time period (in years): `2` <br>
+Simple Interest is: `100.0` <br>
 
