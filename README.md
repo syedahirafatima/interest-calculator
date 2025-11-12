@@ -82,4 +82,4 @@ No external libraries are needed. <br>
 
 Under MIT License
 ## ✨ Author
-
+Developed by [Syeda Hira Fatima](https://github.com/syedahirafatima)
