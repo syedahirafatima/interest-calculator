@@ -78,3 +78,6 @@ interest-calculator/
 - Python 3.6 or above <br>
 
 No external libraries are needed. <br>
+## License:
+
+Under MIT License
