@@ -81,3 +81,5 @@ No external libraries are needed. <br>
 ## License:
 
 Under MIT License
+## ✨ Author
+
